@@ -53,6 +53,8 @@ padding: 0px 0px 0px 18px;
 }
 .secondSection h1{
     text-align: center;
+    font-family: fantasy;
+    
 }
 /* .secondSectioncontent{
     display: grid;
@@ -66,9 +68,55 @@ padding: 0px 0px 0px 18px;
 }
 .card{
     border: 1px solid black;
+    font-family: fantasy;
+
 
 }
 
 .card hr{
     border: 1px solid black;
 }
+
+
+.secondSection button{
+    font-family: fantasy;
+    font-size: 2em;
+text-align: center;
+margin-left: 540px;
+/* margin-right: auto; */
+
+
+}
+.secondSection button a{
+text-decoration: none;
+color: white;
+
+}
+hr{
+    border: 1px solid black;
+}
+
+
+
+.firstPart h1{
+    text-align: center;
+    font-family: fantasy;
+}
+
+.firstPart p{
+    font-size: 1.3em;
+    
+}
+
+.secondPart h1{
+    text-align: center;
+    font-family: fantasy;
+}
+.secondPart p {
+    font-size: 1.3em;
+}
+
+
+
+
+
