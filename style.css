@@ -49,11 +49,26 @@ padding: 0px 0px 0px 18px;
     width: 95%;
     margin-left: auto;
     margin-right: auto;
-    border: 1px solid red;
+    /* border: 1px solid red; */
 }
 .secondSection h1{
     text-align: center;
 }
-.secondSectioncontent{
+/* .secondSectioncontent{
     display: grid;
+} */
+
+
+.card-img-top{
+    /* object-fit: cover; */
+    height: 300px;
+
+}
+.card{
+    border: 1px solid black;
+
+}
+
+.card hr{
+    border: 1px solid black;
 }
